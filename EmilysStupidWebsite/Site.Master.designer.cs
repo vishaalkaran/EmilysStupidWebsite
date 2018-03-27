@@ -13,6 +13,24 @@ namespace EmilysStupidWebsite {
     public partial class SiteMaster {
         
         /// <summary>
+        /// ASPXMenu control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Menu ASPXMenu;
+        
+        /// <summary>
+        /// SiteNav control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SiteMapDataSource SiteNav;
+        
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>
