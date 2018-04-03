@@ -7,6 +7,8 @@
     <!--this is the start of a drop down submenu-->
     <siteMapNode url="" title="WebpagesPages"  description="" >
       <siteMapNode url="~/SimCard/CreatePurchaseOrder.aspx" title="CreatePurchaseOrder"  description="" />
+      <siteMapNode url="~/SimCard/RetailOutletOrder.aspx" title="RetailOutletOrder"  description="" />
+      <siteMapNode url="~/SimCard/RecieveFinishedUnfinishedInventory.aspx" title="RecieveFinishedUnfinishedInventory"  description="" />
       
     </siteMapNode>
 
